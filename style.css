@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 500px;
+
+}
+
+.banner {
+
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin: 0%;
+
+}
+
+
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+}
+
+.pharagraph {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(255, 98, 0);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.button-center {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+.donate-item {
+    width: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+
+
+}
+
+#select {
+    border: 5px solid rgb(202, 66, 66);
+    border-radius: 5px;
+}
+
+h6 {
+    text-underline-position: rgb(172, 119, 119);
+    text-align: center;
+    font-size: 10px;
+}
+
+.help-item {
+    width: 50%;
+    margin: 2%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px gray;
+}
+
+#Food-family {
+    background-color: pink;
+}
+
+#Shelter-family {
+    background-color: rgb(110, 163, 163);
+}
+
+#Education-child {
+    background-color: rgb(167, 106, 224);
+}
+
+footer {
+    background-color: black;
+    color: brown;
+    text-align: center;
+}
